@@ -1,5 +1,5 @@
 #!/bin/bash
-while [ "$menu" != "n" ]
+while [ "$menu" != "n" -a "$menu" != "N" ]
 do
   echo
   read -p "Informe a quantidade de senhas: " qtdSenha
