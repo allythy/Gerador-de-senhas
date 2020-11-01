@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 while [ "$menu" != "n" ]
 do
   echo
